@@ -6,7 +6,7 @@ public class exemplogiteclipse {
 		System.out.print("Integrando git no eclipse");
 		//mudei do github
 		//alterado do eclipse.
-		//muito pratico
+		//muito pratico.
 	}
 
 }
