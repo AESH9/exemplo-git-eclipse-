@@ -7,6 +7,7 @@ public class exemplogiteclipse {
 		//mudei do github
 		//alterado do eclipse.
 		//muito pratico.
+		//entregue a atividade
 	}
 
 }
